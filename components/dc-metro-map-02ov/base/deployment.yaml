@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: dc-metro-map-2
   name: dc-metro-map-02ov
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
